@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div>
-<h3 align="center">Ecommerce</h3>
+<h1 align="center">Ecommerce</h1>
 
   <p align="center">
 An Online Ecommerce store using Next.js integrated with Stripe for payment method and Sanity for database
